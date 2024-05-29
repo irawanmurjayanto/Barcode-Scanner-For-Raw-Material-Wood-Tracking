@@ -1,4 +1,6 @@
-This Project designed for recording data barcode from LOG (wooden LOG from forest),Sawmill (planks/borads),warehouse and finally received at the factory. This system will ensure the accuracy of data for the number of boards/planks received at the factory
+This Project designed for recording data barcode from LOG (wooden LOG from forest),Sawmill (planks/borads),warehouse and finally received at the factory. This system will ensure the accuracy of data for the number of boards/planks received at the factory.
+Barcode Scanner uses TC26 Zebra, which use special light(similar infrared) for scanning the barcode.I uses this scanner because very responsive and very quick for detecting barcode.
+My Application embedded in this smartphone 
 
 ![alt text](https://github.com/irawanmurjayanto/Barcode-Scanner-For-Raw-Material-Wood-Tracking/blob/main/pictproject/pict1.gif?raw=true)
 ![alt text](https://github.com/irawanmurjayanto/Barcode-Scanner-For-Raw-Material-Wood-Tracking/blob/main/pictproject/pict2.gif?raw=true)
