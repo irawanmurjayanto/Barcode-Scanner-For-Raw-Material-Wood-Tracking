@@ -1,4 +1,4 @@
-This Project uses Android JAVA.This Project designed for recording data barcode from LOG (wooden LOG from forest),Sawmill (planks/borads),warehouse and finally received at the factory. This system will ensure the accuracy of data for the number of boards/planks received at the factory.
+This Project uses Android JAVA,Database Microsoft SQL Server and PHP API.This Project designed for recording data barcode from LOG (wooden LOG from forest),Sawmill (planks/borads),warehouse and finally received at the factory. This system will ensure the accuracy of data for the number of boards/planks received at the factory.
 Barcode Scanner uses TC26 Zebra, which use special light(similar infrared) for scanning the barcode.I uses this scanner because very responsive and very quick for detecting barcode.
 My Application embedded in this smartphone. Because The Site Project in remote area and poor signal.The All data temporary will be stored in smartphone (sqllite data) and post data to server when found the signal network
 
