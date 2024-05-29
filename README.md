@@ -1,0 +1,1 @@
+This Project designed for recording data barcode from LOG (wooden LOG from forest),Sawmill (planks/borads),warehouse and finally received at the factory. This system will ensure the accuracy of data for the number of boards/planks received at the factory
